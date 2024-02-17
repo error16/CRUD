@@ -15,15 +15,15 @@ Before diving into development, ensure you have the following prerequisites inst
 ## Working
 
 ### Creating an Employee
-while creating an Employee, we provide all the necessary data related to an employee bind it before calling out API.
+#### while creating an Employee, we provide all the necessary data related to an employee bind it before calling out API.
 ![image](https://github.com/error16/CRUD/assets/56329650/93df097e-44d0-418c-bd35-8dc65cd2b3ed)
 
 ### Edit 
-This functionality helps used to update the information related to a user. When clicked on the EDIT button, an API is called which contains the ID of the user, which is used to edit its information.
+#### This functionality helps used to update the information related to a user. When clicked on the EDIT button, an API is called which contains the ID of the user, which is used to edit its information.
 ![image](https://github.com/error16/CRUD/assets/56329650/45717b4e-631a-4865-8a20-b64e195aca36)
 
 ### Delete
-This functionality is used to remove an Employee from the dataset.
+#### This functionality is used to remove an Employee from the dataset.
 ![image](https://github.com/error16/CRUD/assets/56329650/b477b3d9-3aa7-4656-afbc-c687b9b1e9f2)
 
 
