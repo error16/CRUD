@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASPNETCoreEFCoreCrudOperation.Models
+namespace CRUD.Models
 {
     public class Employee
     {

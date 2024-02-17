@@ -1,6 +1,6 @@
 using System;
 
-namespace ASPNETCoreEFCoreCrudOperation.Models
+namespace CRUD.Models
 {
     public class ErrorViewModel
     {

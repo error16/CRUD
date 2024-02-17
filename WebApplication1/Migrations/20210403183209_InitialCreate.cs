@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace ASPNETCoreEFCoreCrudOperation.Migrations
+namespace CRUD.Migrations
 {
     public partial class InitialCreate : Migration
     {

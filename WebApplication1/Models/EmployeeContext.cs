@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASPNETCoreEFCoreCrudOperation.Models
+namespace CRUD.Models
 {
     public class EmployeeContext : DbContext
     {

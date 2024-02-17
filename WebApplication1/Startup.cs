@@ -1,4 +1,4 @@
-using ASPNETCoreEFCoreCrudOperation.Models;
+using CRUD.Models;
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ASPNETCoreEFCoreCrudOperation
+namespace CRUD
 {
     public class Startup
     {

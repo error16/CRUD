@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ASPNETCoreEFCoreCrudOperation.Models;
+using CRUD.Models;
 
-namespace ASPNETCoreEFCoreCrudOperation
+namespace CRUD.Controllers
 {
     public class EmployeesController : Controller
     {
